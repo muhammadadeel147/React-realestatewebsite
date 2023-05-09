@@ -13,7 +13,7 @@ const Banner = () => {
             <span className='text-violet-700'>Rent</span> Your Dream House With US.
           </h1>
           <p className='max-w-[480px] mb-8'>
-            loremspsumsdfghjdsbjhsdvfjhsvdfjhsdjfhsjhdfvsjhdfvjshdvfsdfvhsdjfh
+          Welcome to Rent Your Dream House With US! We are your premier destination for finding the perfect rental property that fulfills your dreams and exceeds your expectations. Whether you're searching for a cozy apartment, a luxurious villa, or a spacious family home, our website offers an extensive collection of exceptional properties to choose from.
 
           </p>
         </div>
